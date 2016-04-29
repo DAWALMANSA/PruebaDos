@@ -5,8 +5,6 @@
  * @author (Javier&Juan&Mihaela) 
  * @version (1.1)
  */
- 
- // JAVIIIIII, HARTOSOPAAAAAA !!!!!!
 import java.util.Scanner;
 public class Factorial
 {
@@ -36,5 +34,5 @@ public class Factorial
        return aux;}
     }
             
-
+System.out.println("by mcjavi");
 
