@@ -6,7 +6,7 @@ hola soy javi el modificador
 CHICOS QUE NO SOYS BUENOS!!!
 holaaaaaaaa que asessss
 esta noche fiesta en el viña javi
-porrita porrero k t gustan mucho los porros
+porrita porrero k t gustan mucho los porros (que yo no fumo solo psicotrópicos)
 
 
 
